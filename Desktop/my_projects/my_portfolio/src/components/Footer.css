@@ -1,0 +1,18 @@
+#footerdiv {
+  margin-top: 5rem;
+  /* position: bottom; */
+  /* clear: both; */
+  /* padding: rem; */
+  /* left: 0;
+  bottom: 0; */
+  width: 100%;
+  /* text-align: center; */
+  background-color: rgba(40, 38, 38, 0.92);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
